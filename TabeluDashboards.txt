@@ -1,0 +1,6 @@
+https://public.tableau.com/app/profile/ileesha.mahagamage/viz/BigDataandVisualization/AverageRatingbyBusinessCategory?publish=yes
+https://public.tableau.com/app/profile/ileesha.mahagamage/viz/BigDataandVisualization/ReviewCountvsStarRating?publish=yes
+https://public.tableau.com/app/profile/ileesha.mahagamage/viz/BigDataandVisualization/UserEngagementbyBusinessCategory?publish=yes
+https://public.tableau.com/app/profile/ileesha.mahagamage/viz/BigDataandVisualization/YelpBusinessInsightsDashboard?publish=yes
+
+
